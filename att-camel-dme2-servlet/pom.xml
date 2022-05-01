@@ -40,7 +40,7 @@
 			org.apache.camel.spi.ComponentResolver;component=dme2,
 
 		</camel.osgi.export.service>
-		<camel.version>2.15.5</camel.version>
+		<camel.version>2.24.0</camel.version>
 		<ch.qos.logback.version>1.0.0</ch.qos.logback.version>
 	</properties>
 
